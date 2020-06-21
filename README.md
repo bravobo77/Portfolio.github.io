@@ -1,2 +1,3 @@
-# portfolio.github.io
-This is my Portfolio. これが私のポートフォリオです。
+# portfolio
+created my own portfolio. <br>
+私のポートフォリオです。
